@@ -14,7 +14,7 @@ console.log(score)
 
 const heros = ["shaktiman", "naagraj", "devv"];
 let myObj = {
-    name: "hitesh",
+    name: "sachin",
     age: 22, 
 
 }
@@ -35,7 +35,8 @@ console.log(myObj);
 
 
 //Stack and heap memory
+
+
+console.log(`Hello my name is ${} and my epo count is ${}`); //backticks
+
 */
-
-
-
